@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
 
+```markdown
+
+[DSE Mathematics (Compulsory Part)](dse-math/compulsory.md)
+```
+
 You can use the [editor on GitHub](https://github.com/math-kongsir/dse-math/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
