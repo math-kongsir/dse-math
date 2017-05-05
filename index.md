@@ -2,7 +2,7 @@
 
 ```markdown
 
-[DSE Mathematics (Compulsory Part)](https://github.com/math-kongsir/dse-math/compulsory.md)
+[Compulsory Part](https://github.com/math-kongsir/dse-math/compulsory)
 ```
 
 You can use the [editor on GitHub](https://github.com/math-kongsir/dse-math/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
