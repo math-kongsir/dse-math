@@ -1,7 +1,3 @@
-theme: jekyll-theme-slate
-title: Welcome to the Math Corner!
-description: Feel free to bookmark this to keeo an eye on my project updates
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/math-kongsir/dse-math/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
