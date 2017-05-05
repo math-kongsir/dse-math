@@ -1,3 +1,4 @@
+theme: jekyll-theme-slate
 title: Welcome to the Math Corner!
 description: Feel free to bookmark this to keeo an eye on my project updates
 
