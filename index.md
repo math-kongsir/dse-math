@@ -1,6 +1,12 @@
 ## Welcome to GitHub Pages
 
 [Compulsory Part](https://math-kongsir.github.io/dse-math/compulsory)
+<A HREF=index.html class="navigation">Home</a>
+<p class="navigation">About Me <br>
+<A HREF="compulsory.html" class="navigation">DSE Math (Compulsory)</a><br>
+<A HREF="extended.html" class="navigation">DSE Math (Extended)</a><br>
+<A HREF="teaching.html" class="navigation">teaching</a><br>   
+<A HREF="links.html" class="navigation">links</a>
 
 You can use the [editor on GitHub](https://github.com/math-kongsir/dse-math/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
